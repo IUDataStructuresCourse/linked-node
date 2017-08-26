@@ -24,7 +24,7 @@ public class Main {
 	}  
 
 	static void insert_after(Node node, int x) {
-		throw new UnsupportedOperationException();
+		// student implementation
 	}
 
 }
